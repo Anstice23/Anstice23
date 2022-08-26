@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @Anstice23
+Hi, I’m Anastasiya Khaletina
+
+I am a beginner ML engineer
+
+I am fond of data analysis, machine learning
+
+Связаться со мной https://t.me/an_amethyst
 
 
 <!---
