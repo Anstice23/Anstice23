@@ -4,7 +4,7 @@ I am a beginner ML engineer
 
 I am fond of data analysis, machine learning
 
-Связаться со мной @an_amethyst
+Связаться со мной <a href="https://t.me/an_amethyst">@an_amethyst</a>.
 
 
 <!---
