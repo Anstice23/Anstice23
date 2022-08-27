@@ -1,10 +1,8 @@
-  Hi, I’m Anastasiya Khaletina
+  ### Hi, I’m Anastasiya Khaletina
   
-  I am a beginner ML engineer
+  ### I am a beginner ML engineer
 
-  I am fond of data analysis, machine learning
-
-  Contact me <a href="https://t.me/an_amethyst">@an_amethyst</a>
+  ### Contact me <a href="https://t.me/an_amethyst">@an_amethyst</a>
 
 
 <!---
