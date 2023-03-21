@@ -18,3 +18,7 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anstice23&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anstice23&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anstice23&theme=github_dark)
