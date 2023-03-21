@@ -5,7 +5,7 @@
   ### Contact me <a href="https://t.me/an_amethyst">@an_amethyst</a>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif" width="500"/>
 </div>
 
 
