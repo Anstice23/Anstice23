@@ -22,3 +22,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anstice23&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anstice23&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anstice23&theme=github_dark)
+
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anstice23&theme=github_dark" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
