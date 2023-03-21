@@ -4,6 +4,10 @@
 
   ### Contact me <a href="https://t.me/an_amethyst">@an_amethyst</a>
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif)" width="100"/>
+</div>
+
 
 <!---
 Anstice23/Anstice23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
