@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif" width="500"/>
 </div>
 
+---
+
   ### Hi, I’m Anastasiya Khaletina
   
   ### I am a beginner ML engineer
