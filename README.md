@@ -11,7 +11,7 @@
 
 
 <div id="socials" align="center">
-	<a href="linkedin.com/in/anastasiya-covenant-96053826a">
+	<a href="https://linkedin.com/in/anastasiya-covenant-96053826a">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
 	<a href="https://t.me/an_amethyst">
