@@ -4,38 +4,6 @@
 
 ---
 
-<div id="header" align="center">
-	<h1>Hi there, I’m Anastasiya</h1>
-	<h3>I am a beginner ML engineer</h3>
-</div>
+📈 my github stats
 
-
-<!-- <div id="socials" align="center">
-	<a href="https://linkedin.com/in/anastasiya-covenant-96053826a">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-	</a>
-	<a href="https://t.me/an_amethyst">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
-</div>
- -->
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anstice23&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anstice23&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anstice23&theme=github_dark)
-
-<!-- <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Anstice23&show_icons=true&theme=radical" />
- <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anstice23&theme=github_dark" />
-</div>
-
-<div class='container'>
-<img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Anstice23&show_icons=true&theme=transparent" />
-&nbsp; -->
-	
-<h2> Github Stats </h2> 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anstice23&layout=compact&theme=github_dark" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anstice23&theme=github_dark" alt="Anstice23" />
-<br/>
-
-![](https://komarev.com/ghpvc/?username=Anstice23&color=github_dark)
-![](https://visitor-badge.glitch.me/badge?page_id=Anstice23.Anstice23)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anstice23&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
