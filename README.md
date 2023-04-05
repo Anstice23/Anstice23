@@ -10,7 +10,7 @@
 </div>
 
 
-<div id="socials" align="center">
+<!-- <div id="socials" align="center">
 	<a href="https://linkedin.com/in/anastasiya-covenant-96053826a">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
@@ -18,22 +18,22 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
+ -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anstice23&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anstice23&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anstice23&theme=github_dark)
 
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anstice23&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anstice23&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anstice23&theme=github_dark) -->
-
-<div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Anstice23&show_icons=true&theme=radical" />
+<!-- <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=Anstice23&show_icons=true&theme=radical" />
  <img style="max-width: 100%;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anstice23&theme=github_dark" />
 </div>
 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Anstice23&show_icons=true&theme=transparent" />
-&nbsp;
+&nbsp; -->
 	
 <h2> Github Stats </h2> 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anstice23&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anstice23&theme=tokyonight" alt="muskanrani" />
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
