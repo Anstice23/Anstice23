@@ -30,4 +30,12 @@
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Anstice23&show_icons=true&theme=transparent" />
 &nbsp;
+	
+<h2> Github Stats </h2> 
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanrani&theme=tokyonight" alt="muskanrani" />
+<br/>
+
+![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
 
