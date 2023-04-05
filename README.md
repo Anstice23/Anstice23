@@ -32,10 +32,10 @@
 &nbsp; -->
 	
 <h2> Github Stats </h2> 
-<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anstice23&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anstice23&theme=tokyonight" alt="muskanrani" />
+<a href="https://github.com/muskanrani/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anstice23&layout=compact&theme=github_dark" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anstice23&theme=github_dark" alt="Anstice23" />
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Anstice23&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Anstice23&color=github_dark)
 ![](https://visitor-badge.glitch.me/badge?page_id=Anstice23.Anstice23)
 
