@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://ne-kurim.ru/forum/attachments/kot-pechataet-gif" width="500"/>
+  <img src="https://ne-kurim.ru/forum/attachments/kot-pechataet-gif.1251955/" width="500"/>
 </div>
 
 ---
