@@ -36,6 +36,6 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anstice23&theme=tokyonight" alt="muskanrani" />
 <br/>
 
-![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
+![](https://komarev.com/ghpvc/?username=Anstice23&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=Anstice23.Anstice23)
 
